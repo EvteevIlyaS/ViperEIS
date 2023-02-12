@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViperEIS
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on any backend project
+- 💞️ I’m looking to collaborate on any full-stack project
 - 📫 How to reach me evteev-ilya@inbox.ru
 
 You can see my projects at :
